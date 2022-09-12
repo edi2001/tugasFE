@@ -1,5 +1,8 @@
 # tugas front end vue js
 
+## Muhammad Edi Wicaksana - 2531839 
+
+
 ## Project setup
 ```
 npm install
